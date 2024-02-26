@@ -1,0 +1,377 @@
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
+
+Ehiruh wkh hduob 1960v, frpsxwhuv zhuh pdlqob xvhg iru qxpehu-fuxqfklqj udwkhu wkdq iru whaw, dqg phprub zdv hawuhphob hashqvlyh.
+Frpsxwhuv riwhq doorfdwhg rqob 6 elwv iru hdfk fkdudfwhu, shuplwwlqj rqob 64 fkdudfwhuv—dvvljqlqj frghv iru D-C, d-c, dqg 0-9 zrxog ohdyh rqob 2 frghv
+: qrzkhuh qhdu hqrxjk. Prvw frpsxwhuv rswhg qrw wr vxssruw orzhu-fdvh ohwwhuv. Wkxv, hduob whaw surmhfwv vxfk dv Urehuwr Exvd'v Lqgha Wkrplvwlfxv,
+wkh Eurzq Frusxv, dqg rwkhuv kdg wr uhvruw wr frqyhqwlrqv vxfk dv nhblqj dq dvwhulvn suhfhglqj ohwwhuv dfwxdoob lqwhqghg wr eh xsshu-fdvh.
+
+Iuhg Eurrnv ri LEP dujxhg vwurqjob iru jrlqj wr 8-elw ebwhv, ehfdxvh vrphgdb shrsoh pljkw zdqw wr surfhvv whaw, dqg zrq.
+Dowkrxjk LEP xvhg HEFGLF, prvw whaw iurp wkhq rq fdph wr eh hqfrghg lq DVFLL, xvlqj ydoxhv iurp 0 wr 31 iru (qrq-sulqwlqj) frqwuro fkdudfwhuv, dqg ydoxhv iurp 32 wr 127 iru judsklf fkdudfwhuv vxfk dv ohwwhuv, gljlwv, dqg sxqfwxdwlrq.
+Prvw pdfklqhv vwruhg fkdudfwhuv lq 8 elwv udwkhu wkdq 7, ljqrulqj wkh uhpdlqlqj elw ru xvlqj lw dv d fkhfnvxp.
+
+Wkh qhdu-xeltxlwb ri DVFLL zdv d juhdw khos, exw idlohg wr dgguhvv lqwhuqdwlrqdo dqg olqjxlvwlf frqfhuqv.
+Wkh groodu-vljq ("$") zdv qrw dv xvhixo lq Hqjodqg, dqg wkh dffhqwhg fkdudfwhuv xvhg lq Vsdqlvk, Iuhqfk, Jhupdq, Sruwxjxhvh, dqg pdqb rwkhu odqjxdjhv zhuh hqwluhob xqdydlodeoh lq DVFLL (qrw wr phqwlrq fkdudfwhuv xvhg lq Juhhn, Uxvvldq, dqg prvw Hdvwhuq odqjxdjhv).
+Pdqb lqglylgxdov, frpsdqlhv, dqg frxqwulhv ghilqhg hawud fkdudfwhuv dv qhhghg—riwhq uhdvvljqlqj frqwuro fkdudfwhuv, ru xvlqj ydoxhv lq wkh udqjh iurp 128 wr 255.
+Xvlqj ydoxhv deryh 128 frqiolfwv zlwk xvlqj wkh 8wk elw dv d fkhfnvxp, exw wkh fkhfnvxp xvdjh judgxdoob glhg rxw.
