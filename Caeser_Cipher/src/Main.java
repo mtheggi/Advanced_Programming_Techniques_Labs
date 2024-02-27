@@ -16,7 +16,7 @@ public class Main {
         long endTime = System.currentTimeMillis();
         long Encduration = (endTime - startTime);
 
-        System.out.println("Encryption Time : " + Encduration + " ms");
+        System.out.println("Sequential Encryption Time : " + Encduration + " ms");
         CWriteFile Writer = new CWriteFile("Cipher.txt");
         Writer.Write(EncText);
 
@@ -25,16 +25,92 @@ public class Main {
         endTime = System.currentTimeMillis();
         long Decduration = (endTime - startTime);
 
-        System.out.println("Decryption Time : " + Decduration + " ms");
+        System.out.println("Sequential Decryption Time : " + Decduration + " ms");
+        System.out.println("Sequentual Total time : " + (Decduration + Encduration) + " ms");
 
         Writer.setFileName("Decrypted.txt");
         Writer.Write(DecText);
     }
 
-    private static void parallel_Enc_dec(int ShiftKey , String fileContent , int numberOfLines , int numberofThreads){
+    private static void parallel_Enc_dec(int ShiftKey , String fileContent , int numberOfLines , int numberofThreads) {
+        Thread[] threads = new Thread[numberofThreads];
+
+        int size = numberOfLines / numberofThreads;
+        String[] Enc_chunks = new String[numberofThreads];
+        String[] Dec_chunks = new String[numberofThreads];
+        String[] Orig_chunks = new String[numberofThreads];
 
 
+        for (int i = 0; i < numberofThreads; i++) {
+            int start = i * size;
+            int end = (numberofThreads == (i + 1)) ? fileContent.length() - 1 : start + size - 1;
+            Enc_chunks[i] = fileContent.substring(start, end + 1);
+        }
+        long startTime = System.currentTimeMillis();
 
+        for (int i = 0; i < numberofThreads; i++) {
+            final int indx  =i ;
+            threads[i] = new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    Enc_Dec Encoder = new Enc_Dec(ShiftKey);
+                    Dec_chunks[indx] = Encoder.Encrypt(Enc_chunks[indx]);
+                    Orig_chunks[indx] = Encoder.Decrypt(Dec_chunks[indx]);
+                }
+            });
+            threads[i].start();
+        }
+        for (Thread thread : threads)
+        {
+            try {
+                thread.join();
+            } catch (InterruptedException e) {
+                System.out.println("Thread Join Error : " + e.getMessage());
+            }
+        }
+
+
+        System.out.println("Parallel Encryption Time : " + ( System.currentTimeMillis()- startTime) + " ms");
+        StringBuilder EncText = new StringBuilder();
+
+        for (int i = 0; i < numberofThreads; i++) {
+            EncText.append(Dec_chunks[i]);
+        }
+
+        CWriteFile Writer = new CWriteFile("Cipher_Parallel.txt");
+        Writer.Write(EncText.toString());
+
+//        Thread [] decThreads = new Thread[numberofThreads];
+//        startTime = System.currentTimeMillis(); // start time for decryption
+//        for (int i = 0; i < numberofThreads; i++) {
+//            final int indx = i;
+//            decThreads[i] = new Thread(new Runnable() {
+//                @Override
+//                public void run() {
+//                    Enc_Dec Encoder = new Enc_Dec(ShiftKey);
+//                    Orig_chunks[indx] = Encoder.Decrypt(Dec_chunks[indx]);
+//                }
+//            });
+//            decThreads[i].start();
+//        }
+
+//        for (Thread thread : decThreads)
+//        {
+//            try {
+//                thread.join();
+//            } catch (InterruptedException e) {
+//                System.out.println("Thread Join Error : " + e.getMessage());
+//            }
+//        }
+//        System.out.println("Parallel Decryption Time : " +  (System.currentTimeMillis() - startTime) + " ms");
+        StringBuilder dec = new StringBuilder();
+
+        for (int i = 0; i < numberofThreads; i++) {
+            dec.append(Orig_chunks[i]);
+        }
+
+        Writer.setFileName("Decrypted_Parallel.txt");
+        Writer.Write(dec.toString());
 
     }
 
