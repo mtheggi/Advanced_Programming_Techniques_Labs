@@ -4,6 +4,15 @@ Caeser_Cipher/.gitignore
 Caeser_Cipher/.idea/
 Caeser_Cipher/Caeser_Cipher.iml
 
+Caeser_Cipher/Cipher.txt
+Caeser_Cipher/Cipher_Parallel.txt
+Caeser_Cipher/Decrypted.txt
+Caeser_Cipher/Decrypted_Parallel.txt
+Caeser_Cipher/input100m.txt
+Caeser_Cipher/input200m.txt
+Caeser_Cipher/input30m.txt
+Caeser_Cipher/input5k.txt
+
 
 !**/src/main/**/out/
 !**/src/test/**/out/

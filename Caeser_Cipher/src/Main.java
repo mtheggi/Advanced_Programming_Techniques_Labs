@@ -122,7 +122,7 @@ public class Main {
     public static void main(String[] args) {
         // 1- file to
         Scanner scan = new Scanner(System.in);
-        System.out.print("fileName you want Encrypt/Decrypt . Ex. input<fileSize>.txt , available sizes (1m , 5k ,25b , 10m) :");
+        System.out.print("fileName you want Encrypt/Decrypt . Ex. input<fileSize>.txt , available sizes (1m , 5k ,25b , 10m , 30m) :");
         String FileName= scan.nextLine();
         System.out.print("enter the shift Key : ");
         int ShiftKey = scan.nextInt();
