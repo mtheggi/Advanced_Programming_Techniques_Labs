@@ -55,8 +55,7 @@ public class Main {
                 public void run() {
                     Enc_Dec Encoder = new Enc_Dec(ShiftKey);
                     Dec_chunks[indx] = Encoder.Encrypt(Enc_chunks[indx]);
-                    Orig_chunks[indx] = Encoder.Decrypt(Dec_chunks[indx]);
-                }
+                 }
             });
             threads[i].start();
         }
@@ -69,7 +68,7 @@ public class Main {
             }
         }
 
-
+        long Enctime = System.currentTimeMillis() - startTime;
         System.out.println("Parallel Encryption Time : " + ( System.currentTimeMillis()- startTime) + " ms");
         StringBuilder EncText = new StringBuilder();
 
@@ -80,31 +79,33 @@ public class Main {
         CWriteFile Writer = new CWriteFile("Cipher_Parallel.txt");
         Writer.Write(EncText.toString());
 
-//        Thread [] decThreads = new Thread[numberofThreads];
-//        startTime = System.currentTimeMillis(); // start time for decryption
-//        for (int i = 0; i < numberofThreads; i++) {
-//            final int indx = i;
-//            decThreads[i] = new Thread(new Runnable() {
-//                @Override
-//                public void run() {
-//                    Enc_Dec Encoder = new Enc_Dec(ShiftKey);
-//                    Orig_chunks[indx] = Encoder.Decrypt(Dec_chunks[indx]);
-//                }
-//            });
-//            decThreads[i].start();
-//        }
+        Thread [] decThreads = new Thread[numberofThreads];
 
-//        for (Thread thread : decThreads)
-//        {
-//            try {
-//                thread.join();
-//            } catch (InterruptedException e) {
-//                System.out.println("Thread Join Error : " + e.getMessage());
-//            }
-//        }
-//        System.out.println("Parallel Decryption Time : " +  (System.currentTimeMillis() - startTime) + " ms");
+        startTime = System.currentTimeMillis(); // start time for decryption
+        for (int i = 0; i < numberofThreads; i++) {
+            final int indx = i;
+            decThreads[i] = new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    Enc_Dec Encoder = new Enc_Dec(ShiftKey);
+                    Orig_chunks[indx] = Encoder.Decrypt(Dec_chunks[indx]);
+                }
+            });
+            decThreads[i].start();
+        }
+
+        for (Thread thread : decThreads)
+        {
+            try {
+                thread.join();
+            } catch (InterruptedException e) {
+                System.out.println("Thread Join Error : " + e.getMessage());
+            }
+        }
+        long decTime = System.currentTimeMillis() - startTime;
+        System.out.println("Parallel Decryption Time : " +  (System.currentTimeMillis() - startTime) + " ms");
         StringBuilder dec = new StringBuilder();
-
+        System.out.println("Parallel Total time : " + (decTime + Enctime) + " ms");
         for (int i = 0; i < numberofThreads; i++) {
             dec.append(Orig_chunks[i]);
         }
