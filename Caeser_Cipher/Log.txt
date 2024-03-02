@@ -1,0 +1,200 @@
+for file : input25b.txt
+shift key = 4
+Sequential Encryption Time : 0 ms
+Sequential Decryption Time : 0 ms
+Sequentual Total time : 0 ms
+parallel with number of threads : 15
+Parallel Encryption Time : 1 ms
+Parallel Decryption Time : 0 ms
+Parallel Total time : 1 ms
+----------------------------------------------------------------------------------------------------------
+for file : input25b.txt
+shift key = 4
+Sequential Encryption Time : 0 ms
+Sequential Decryption Time : 0 ms
+Sequentual Total time : 0 ms
+parallel with number of threads : 5
+Parallel Encryption Time : 2 ms
+Parallel Decryption Time : 1 ms
+Parallel Total time : 3 ms
+----------------------------------------------------------------------------------------------------------
+for file : input25b.txt
+shift key = 4
+Sequential Encryption Time : 0 ms
+Sequential Decryption Time : 0 ms
+Sequentual Total time : 0 ms
+parallel with number of threads : 25
+Parallel Encryption Time : 2 ms
+Parallel Decryption Time : 3 ms
+Parallel Total time : 5 ms
+----------------------------------------------------------------------------------------------------------
+for file : input25b.txt
+shift key = 3
+Sequential Encryption Time : 0 ms
+Sequential Decryption Time : 0 ms
+Sequentual Total time : 0 ms
+parallel with number of threads : 40
+Parallel Encryption Time : 3 ms
+Parallel Decryption Time : 3 ms
+Parallel Total time : 6 ms
+----------------------------------------------------------------------------------------------------------
+for file : input5k.txt
+shift key = 3
+Sequential Encryption Time : 5 ms
+Sequential Decryption Time : 3 ms
+Sequentual Total time : 8 ms
+parallel with number of threads : 5
+Parallel Encryption Time : 1 ms
+Parallel Decryption Time : 1 ms
+Parallel Total time : 2 ms
+----------------------------------------------------------------------------------------------------------
+for file : input5k.txt
+shift key = 3
+Sequential Encryption Time : 5 ms
+Sequential Decryption Time : 3 ms
+Sequentual Total time : 5 ms
+parallel with number of threads : 15
+Parallel Encryption Time : 2 ms
+Parallel Decryption Time : 2 ms
+Parallel Total time : 4 ms
+----------------------------------------------------------------------------------------------------------
+for file : input5k.txt
+shift key = 3
+Sequential Encryption Time : 4 ms
+Sequential Decryption Time : 3 ms
+Sequentual Total time : 7 ms
+parallel with number of threads : 25
+Parallel Encryption Time : 3 ms
+Parallel Decryption Time : 4 ms
+Parallel Total time : 7 ms
+----------------------------------------------------------------------------------------------------------
+for file : input5k.txt
+shift key = 2
+Sequential Encryption Time : 1 ms
+Sequential Decryption Time : 0 ms
+Sequentual Total time : 1 ms
+parallel with number of threads : 40
+Parallel Encryption Time : 3 ms
+Parallel Decryption Time : 4 ms
+Parallel Total time : 7 ms
+----------------------------------------------------------------------------------------------------------
+for file : input1m.txt
+shift key = 4
+Sequential Encryption Time : 22 ms
+Sequential Decryption Time : 19 ms
+Sequentual Total time : 41 ms
+parallel with number of threads : 5
+Parallel Encryption Time : 40 ms
+Parallel Decryption Time : 48 ms
+Parallel Total time : 88 ms
+----------------------------------------------------------------------------------------------------------
+for file : input1m.txt
+shift key = 4
+Sequential Encryption Time : 20 ms
+Sequential Decryption Time : 17 ms
+Sequentual Total time : 37 ms
+parallel with number of threads : 15
+Parallel Encryption Time : 31 ms
+Parallel Decryption Time : 35 ms
+Parallel Total time : 66 ms
+----------------------------------------------------------------------------------------------------------
+for file : input1m.txt
+shift key = 4
+Sequential Encryption Time : 22 ms
+Sequential Decryption Time : 17 ms
+Sequentual Total time : 39 ms
+parallel with number of threads : 25
+Parallel Encryption Time : 43 ms
+Parallel Decryption Time : 42 ms
+Parallel Total time : 85 ms
+----------------------------------------------------------------------------------------------------------
+for file : input1m.txt
+shift key = 3
+Sequential Encryption Time : 21 ms
+Sequential Decryption Time : 17 ms
+Sequentual Total time : 38 ms
+parallel with number of threads : 40
+Parallel Encryption Time : 48 ms
+Parallel Decryption Time : 52 ms
+Parallel Total time : 100 ms
+----------------------------------------------------------------------------------------------------------
+for file : input10m.txt
+shift key = 3
+Sequential Encryption Time : 94 ms
+Sequential Decryption Time : 93 ms
+Sequentual Total time : 187 ms
+parallel with number of threads : 5
+Parallel Encryption Time : 89 ms
+Parallel Decryption Time : 72 ms
+Parallel Total time : 161 ms
+----------------------------------------------------------------------------------------------------------
+for file : input10m.txt
+shift key = 3
+Sequential Encryption Time : 96 ms
+Sequential Decryption Time : 97 ms
+Sequentual Total time : 193 ms
+parallel with number of threads : 15
+Parallel Encryption Time : 57 ms
+Parallel Decryption Time : 71 ms
+Parallel Total time : 128 ms
+----------------------------------------------------------------------------------------------------------
+for file : input10m.txt
+shift key = 3
+Sequential Encryption Time : 97 ms
+Sequential Decryption Time : 95 ms
+Sequentual Total time : 192 ms
+parallel with number of threads : 25
+Parallel Encryption Time : 64 ms
+Parallel Decryption Time : 63 ms
+Parallel Total time : 127 ms
+----------------------------------------------------------------------------------------------------------
+for file : input10m.txt
+shift key = 3
+Sequential Encryption Time : 99 ms
+Sequential Decryption Time : 99 ms
+Sequentual Total time : 198 ms
+parallel with number of threads : 40
+Parallel Encryption Time : 74 ms
+Parallel Decryption Time : 62 ms
+Parallel Total time : 136 ms
+----------------------------------------------------------------------------------------------------------
+for file : input30m.txt
+shift key = 3
+Sequential Encryption Time : 212 ms
+Sequential Decryption Time : 210 ms
+Sequentual Total time : 422 ms
+parallel with number of threads : 5
+Parallel Encryption Time : 118 ms
+Parallel Decryption Time : 109 ms
+Parallel Total time : 227 ms
+----------------------------------------------------------------------------------------------------------
+for file : input30m.txt
+shift key = 3
+Sequential Encryption Time : 219 ms
+Sequential Decryption Time : 220 ms
+Sequentual Total time : 439 ms
+parallel with number of threads : 15
+Parallel Encryption Time : 115 ms
+Parallel Decryption Time : 101 ms
+Parallel Total time : 216 ms
+----------------------------------------------------------------------------------------------------------
+for file : input30m.txt
+shift key = 2
+Sequential Encryption Time : 228 ms
+Sequential Decryption Time : 220 ms
+Sequentual Total time : 448 ms
+parallel with number of threads : 25
+Parallel Encryption Time : 104 ms
+Parallel Decryption Time : 97 ms
+Parallel Total time : 201 ms
+----------------------------------------------------------------------------------------------------------
+for file : input30m.txt
+shift key = 4
+Sequential Encryption Time : 229 ms
+Sequential Decryption Time : 225 ms
+Sequentual Total time : 454 ms
+parallel with number of threads : 40
+Parallel Encryption Time : 106 ms
+Parallel Decryption Time : 90 ms
+Parallel Total time : 196 ms
+----------------------------------------------------------------------------------------------------------

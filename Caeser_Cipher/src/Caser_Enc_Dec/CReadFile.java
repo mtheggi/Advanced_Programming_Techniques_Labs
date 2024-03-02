@@ -10,14 +10,12 @@ public class CReadFile {
     public CReadFile(String FileName ) {
         this.FileName = FileName;
     }
-    public String Reader(int[] numberOfLines , int[] numberofChars){
+    public String Reader(int[] numberofChars) throws IOException {
         System.out.println(FileName);
         try(BufferedReader br = new BufferedReader(new FileReader(FileName))) {
             StringBuilder fileContent = new StringBuilder();
             String line = br.readLine();
-            numberOfLines[0] =1 ;
             if(line == null ) {
-                numberOfLines[0] =0 ;
                 return "Empty";
             }else {
                 numberofChars[0]= line.length();
@@ -25,14 +23,16 @@ public class CReadFile {
             while (line != null) {
                 fileContent.append(line).append("\n");
                 line = br.readLine();
-                if (line != null) {numberOfLines[0]++; numberofChars[0]+=line.length();}
+                if (line != null) {numberofChars[0]+=line.length();}
 
             }
             return fileContent.toString();
 
         }catch (IOException e ){
+
             System.out.println("File not find error : " + e.getMessage());
-            return "Error";
+            throw e;
+
         }
 
     }

@@ -1,5 +1,6 @@
 import java.awt.*;
 import java.io.File;
+import java.io.IOException;
 import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.Date;
@@ -9,7 +10,7 @@ import Caser_Enc_Dec.*;
 
 public class Main {
 
-    private static void  Seq_enc_dec(int ShiftKey  , String fileContent) {
+    private static void  Seq_enc_dec(int ShiftKey  , String fileContent , String FileName) {
         Enc_Dec Encode = new Enc_Dec(ShiftKey);
         long startTime = System.currentTimeMillis();
         String EncText = Encode.Encrypt(fileContent);
@@ -30,11 +31,16 @@ public class Main {
 
         Writer.setFileName("Decrypted.txt");
         Writer.Write(DecText);
+        Writer.setFileName("Log.txt");
+        Writer.setIsAppend(true);
+
+        Writer.Write("for file : " + FileName + "\n" + "shift key = " + ShiftKey + "\n"+ "Sequential Encryption Time : " + Encduration + " ms\n" + "Sequential Decryption Time : " + Decduration + " ms\n" + "Sequentual Total time : " + (Decduration + Encduration) + " ms\n");
     }
 
-    private static void parallel_Enc_dec(int ShiftKey , String fileContent , int numberOfLines , int numberOfChars, int numberofThreads) {
+    private static void parallel_Enc_dec(int ShiftKey , String fileContent  , int numberOfChars, int numberofThreads , String FileName) {
 
         int size = numberOfChars / numberofThreads;
+        int orThreads = numberofThreads;
         if(numberOfChars < numberofThreads)
         {
             numberofThreads = 1;
@@ -117,33 +123,47 @@ public class Main {
 
         Writer.setFileName("Decrypted_Parallel.txt");
         Writer.Write(dec.toString());
-
+        Writer.setFileName("Log.txt");
+        Writer.setIsAppend(true);
+        Writer.Write("parallel with number of threads : " + orThreads + "\n");
+        Writer.Write("Parallel Encryption Time : " + Enctime + " ms\n" + "Parallel Decryption Time : " + decTime + " ms\n" + "Parallel Total time : " + (decTime + Enctime) + " ms\n");
+        Writer.Write("----------------------------------------------------------------------------------------------------------\n");
     }
 
 
 
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         // 1- file to
         Scanner scan = new Scanner(System.in);
+        System.out.println("-------------------------------------------------------------");
         System.out.println("Welcome to the Caesar Cipher Encryption/Decryption Program");
+        System.out.println("-------------------------------------------------------------");
+
         System.out.println("Please make sure to have the file you want to Encrypt/Decrypt in the same directory as the program");
+        System.out.println("-------------------------------------------------------------");
 
         System.out.print("fileName you want Encrypt/Decrypt . Ex. input<fileSize>.txt , available sizes (1m , 5k ,25b , 10m , 30m) :");
         String FileName= scan.nextLine();
+        System.out.println("-------------------------------------------------------------");
+
         System.out.print("enter the shift Key : ");
         int ShiftKey = scan.nextInt();
+        System.out.println("-------------------------------------------------------------");
+
         System.out.print("enter number of threads you want to use in Parallel Encryption/Decryption : ");
         int numberOfThreads = scan.nextInt();
         CReadFile Reader = new CReadFile(FileName);
-        int [] numberOfLines = new int[1];
         int [] numberofChars = new int[1];
-        String fileContent = Reader.Reader(numberOfLines , numberofChars);
+        String fileContent = Reader.Reader( numberofChars);
 
-        Seq_enc_dec(ShiftKey, fileContent);
+        Seq_enc_dec(ShiftKey, fileContent ,FileName);
 
-        parallel_Enc_dec(ShiftKey, fileContent, numberOfLines[0], numberofChars[0], numberOfThreads);
+        parallel_Enc_dec(ShiftKey, fileContent, numberofChars[0], numberOfThreads ,FileName);
+
+        System.out.println("Done encrypting and decrypting the file : " + FileName);
+
 
     }
 }
