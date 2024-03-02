@@ -10,20 +10,22 @@ public class CReadFile {
     public CReadFile(String FileName ) {
         this.FileName = FileName;
     }
-    public String Reader(int[] numberOfLines){
+    public String Reader(int[] numberOfLines , int[] numberofChars){
         System.out.println(FileName);
         try(BufferedReader br = new BufferedReader(new FileReader(FileName))) {
             StringBuilder fileContent = new StringBuilder();
-            numberOfLines[0] =1 ;
             String line = br.readLine();
+            numberOfLines[0] =1 ;
             if(line == null ) {
                 numberOfLines[0] =0 ;
                 return "Empty";
+            }else {
+                numberofChars[0]= line.length();
             }
             while (line != null) {
                 fileContent.append(line).append("\n");
                 line = br.readLine();
-                if (line != null) numberOfLines[0]++;
+                if (line != null) {numberOfLines[0]++; numberofChars[0]+=line.length();}
 
             }
             return fileContent.toString();
@@ -35,11 +37,16 @@ public class CReadFile {
 
     }
 //    public static void  main(String [] args ) {
-//        CReadFile Reader = new CReadFile("Input.txt");
+//        CReadFile Reader = new CReadFile("input5k.txt");
 //        int [] numberOfLines = new int[1];
-//        String fileContent = Reader.Reader(numberOfLines);
+//        int [] numberOfChars = new int[1];
+//
+//        String fileContent = Reader.Reader(numberOfLines,numberOfChars);
 //        System.out.println(fileContent);
 //        System.out.println("Number of lines : " + numberOfLines[0]);
+//        System.out.println("Number of chars  : " + numberOfChars[0]);
+//
+//
 //    }
 
 }

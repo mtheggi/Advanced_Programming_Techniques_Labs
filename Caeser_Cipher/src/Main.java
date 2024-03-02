@@ -32,10 +32,15 @@ public class Main {
         Writer.Write(DecText);
     }
 
-    private static void parallel_Enc_dec(int ShiftKey , String fileContent , int numberOfLines , int numberofThreads) {
-        Thread[] threads = new Thread[numberofThreads];
+    private static void parallel_Enc_dec(int ShiftKey , String fileContent , int numberOfLines , int numberOfChars, int numberofThreads) {
 
-        int size = numberOfLines / numberofThreads;
+        int size = numberOfChars / numberofThreads;
+        if(numberOfChars < numberofThreads)
+        {
+            numberofThreads = 1;
+            size = numberOfChars;
+        }
+        Thread[] threads = new Thread[numberofThreads];
         String[] Enc_chunks = new String[numberofThreads];
         String[] Dec_chunks = new String[numberofThreads];
         String[] Orig_chunks = new String[numberofThreads];
@@ -122,6 +127,9 @@ public class Main {
     public static void main(String[] args) {
         // 1- file to
         Scanner scan = new Scanner(System.in);
+        System.out.println("Welcome to the Caesar Cipher Encryption/Decryption Program");
+        System.out.println("Please make sure to have the file you want to Encrypt/Decrypt in the same directory as the program");
+
         System.out.print("fileName you want Encrypt/Decrypt . Ex. input<fileSize>.txt , available sizes (1m , 5k ,25b , 10m , 30m) :");
         String FileName= scan.nextLine();
         System.out.print("enter the shift Key : ");
@@ -130,11 +138,12 @@ public class Main {
         int numberOfThreads = scan.nextInt();
         CReadFile Reader = new CReadFile(FileName);
         int [] numberOfLines = new int[1];
-        String fileContent = Reader.Reader(numberOfLines);
+        int [] numberofChars = new int[1];
+        String fileContent = Reader.Reader(numberOfLines , numberofChars);
 
         Seq_enc_dec(ShiftKey, fileContent);
 
-        parallel_Enc_dec(ShiftKey, fileContent, numberOfLines[0], numberOfThreads);
+        parallel_Enc_dec(ShiftKey, fileContent, numberOfLines[0], numberofChars[0], numberOfThreads);
 
     }
 }
