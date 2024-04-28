@@ -198,3 +198,23 @@ Parallel Encryption Time : 106 ms
 Parallel Decryption Time : 90 ms
 Parallel Total time : 196 ms
 ----------------------------------------------------------------------------------------------------------
+for file : input5k.txt
+shift key = 4
+Sequential Encryption Time : 5 ms
+Sequential Decryption Time : 2 ms
+Sequentual Total time : 7 ms
+parallel with number of threads : 10
+Parallel Encryption Time : 2 ms
+Parallel Decryption Time : 1 ms
+Parallel Total time : 3 ms
+----------------------------------------------------------------------------------------------------------
+for file : input10m.txt
+shift key = 4
+Sequential Encryption Time : 99 ms
+Sequential Decryption Time : 98 ms
+Sequentual Total time : 197 ms
+parallel with number of threads : 20
+Parallel Encryption Time : 72 ms
+Parallel Decryption Time : 81 ms
+Parallel Total time : 153 ms
+----------------------------------------------------------------------------------------------------------
